@@ -4,3 +4,5 @@
 
 
 <p align="center"> :microscope: Cell counting using Python to identify, through images, the approximate amount of cells present in a sample :petri_dish: </p>
+
+<img src="https://raw.githubusercontent.com/horberlan/Cell-count/main/exemplo.png?token=ALEU6A27PKJ6S5JE47CP6ZDADHY2S">
