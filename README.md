@@ -12,6 +12,6 @@
 
 
 <br><br><br><br><br>
-<div>
-<img align="left" src="ex1.png"><img align="right" src="ex2.png">
-</div>
+<p>
+<img align="left" src="exemplo2.png"><img align="right" src="exemplo.png">
+</p>
