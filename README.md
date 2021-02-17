@@ -1,7 +1,7 @@
 <h1 align="center">  Sample analisys – Cell Count</h1>
 
 
-<img alt="PyPI" src="https://img.shields.io/pypi/v/numpy?label=Numpy&logo=Numpy&style=flat-square"> <img alt="PyPI" src="https://img.shields.io/pypi/v/opencv-python?label=OpenCV&logo=opencv&style=flat-square"> <img alt="PyPI" src="https://img.shields.io/pypi/v/matplotlib?label=Matplotlib&logo=Matplotlib&style=flat-square">
+<img alt="PyPI" src="https://img.shields.io/pypi/v/numpy?label=Numpy&logo=Numpy&style=flat-square"> <img alt="PyPI" src="https://img.shields.io/pypi/v/opencv-python?label=OpenCV&logo=opencv&style=flat-square"> <img alt="PyPI" src="https://img.shields.io/pypi/v/matplotlib?label=Matplotlib&logo=Matplotlib&style=flat-square"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/horberlan/Cell-count?style=flat-square">
 
 
 
