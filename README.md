@@ -13,5 +13,5 @@
 
 <br><br><br><br><br>
 <div>
-<img align="left" src="ex2.svg"><img align="right" src="ex1.svg">
+<img align="left" src="ex1.png"><img align="right" src="ex2.png">
 </div>
