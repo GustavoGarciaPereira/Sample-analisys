@@ -13,5 +13,5 @@
 
 <br><br><br><br><br>
 <p>
-<img align="left" src="exemplo2.png"><img align="right" src="exemplo.png">
+<img align="left" src="exemplo2.png" height="300px"><img align="right" src="exemplo.png">
 </p>
