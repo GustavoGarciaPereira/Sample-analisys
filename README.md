@@ -7,7 +7,7 @@
 
 <p align="center"> :microscope: Cell counting using Python to identify, through images, the approximate amount of cells present in a sample :petri_dish: </p>
 
- <p><img src="img/recurso.png" height="150px" align="left"> This project consists of developing a tool capable of schematizing a count of living cells, distinguishing from dead cells present in animal tissue samples, from images collected from lab.</p>
+ <p align="justify"><img src="img/recurso.png" height="150px" align="left"> This project consists of developing a tool capable of schematizing a count of living cells, distinguishing from dead cells present in animal tissue samples, from images collected from lab.</p>
  
 
 
