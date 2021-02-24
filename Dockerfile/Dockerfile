@@ -31,4 +31,3 @@ CMD [ "python", "./detct.py" ]
 
 
 
-
