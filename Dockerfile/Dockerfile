@@ -5,11 +5,12 @@ RUN \
   apt-get install -y python python-dev python-pip python-virtualenv && \
   rm -rf /var/lib/apt/lists/
 
-WORKDIR /Cell-count
-COPY requirements.txt .
-RUN pip install -r requirements.txt
+WORKDIR /Cell-count 
+COPY requirements.txt ./
 
-COPY src/ .
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
 
-CMD ["gunicorn", "-w 4", "main:app"]
+
+CMD [ "python", "./detection.py" ]
