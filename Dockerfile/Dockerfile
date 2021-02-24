@@ -5,7 +5,9 @@ RUN \
   apt-get install -y python python-dev python-pip python-virtualenv && \
   rm -rf /var/lib/apt/lists/
 
+
 WORKDIR /Cell-count 
+ADD detct.py /
 COPY requirements.txt ./
 
 RUN pip install --no-cache-dir --upgrade pip && \
