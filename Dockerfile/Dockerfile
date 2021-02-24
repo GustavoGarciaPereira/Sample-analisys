@@ -13,4 +13,22 @@ RUN pip install --no-cache-dir --upgrade pip && \
 
 
 
-CMD [ "python", "./detection.py" ]
+CMD [ "python", "./detct.py" ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
