@@ -1,10 +1,7 @@
 FROM python:3.8
 
 RUN \
-  apt-get update && \
-  apt-get install -y python python-dev python-pip python-virtualenv && \
-  rm -rf /var/lib/apt/lists/
-
+  apt-get update 
 
 WORKDIR /Cell-count 
 ADD detct.py /
