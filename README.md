@@ -7,12 +7,13 @@
 
 <p align="center"> :microscope: Cell counting using Python to identify, through images, the approximate amount of cells present in a sample :petri_dish: </p>
 
+## Objective
  <p align="justify"><img src="img/recurso.png" height="150px" align="left"> This project consists of developing a tool capable of schematizing a count of living cells, distinguishing from dead cells present in animal tissue samples, from images collected from lab.</p>
  
 
 
 <br><br><br><br>
-<p>
+<p> <b>1.</b> Exemples:
 <img align="left" src="img/exemplo2.png" height="300px"><img align="right" src="img/exemplo.png">
 </p>
 
@@ -20,4 +21,4 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-***Note:*** This repo stay in prodution.
+
