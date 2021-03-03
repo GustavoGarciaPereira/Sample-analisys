@@ -13,7 +13,7 @@
 
 
 <br><br><br><br>
-<p> <b>1.</b> Exemples:
+<p> <b>1.</b> Exemples: <br><br>
 <img align="left" src="img/exemplo2.png" height="300px"><img align="right" src="img/exemplo.png">
 </p>
 
